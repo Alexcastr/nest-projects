@@ -1,0 +1,15 @@
+{
+  "name": "nest-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "projects/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexcastr/nest-projects.git"
+  },
+  "author": "alexander <castro.t.alex@gmail.com>",
+  "license": "MIT"
+  
+}
