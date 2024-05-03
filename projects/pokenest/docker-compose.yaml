@@ -9,4 +9,5 @@ services:
     environment:
       MONGODB_DATABASE: nest-pokemon
     volumes:
-      - ./mongo:/data/db
+      - ./projects/pokenest/mongo:/data/db
+      
